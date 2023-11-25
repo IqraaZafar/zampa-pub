@@ -1,0 +1,18 @@
+{
+  "name": "zampa-pub",
+  "version": "1.0.0",
+  "description": "My First Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/IqraaZafar/zampa-pub.git)"
+  },
+  "keywords": [
+    "Publishment"
+  ],
+  "author": "Iqra Zafar",
+  "license": "ISC"
+}
