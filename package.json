@@ -14,5 +14,10 @@
     "Publishment"
   ],
   "author": "Iqra Zafar",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "(https://github.com/IqraaZafar/zampa-pub.git)"
+  },
+  "homepage": "(https://github.com/IqraaZafar/zampa-pub/blob/main/README.md#zampa-pub)"
+
 }
